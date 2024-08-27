@@ -1,5 +1,9 @@
 # Transformer Summazier
 
+<img width="1373" alt="transformer" src="https://github.com/user-attachments/assets/71457942-3ef8-4493-97ab-df2b5f58dc5a">
+
+
+
 Summarization is an important task in natural language processing and could be useful for a consumer enterprise. For example, bots can be used to scrape articles, summarize them, and then you can use sentiment analysis to identify the sentiment about certain stocks. Who wants to read an article or a long email today anyway, when you can build a transformer to summarize text for you? Let's get started.
 
 This model is heavily based on attention and does not rely on sequences, which allows for parallel computing.
