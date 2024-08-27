@@ -32,14 +32,12 @@ The `data` folder consists of the data on which the transformer is trained and t
     - 6.2 - Full Encoder
 - 7 - Decoder
     - 7.1 - Decoder Layer
-    - 7.2 - DecoderLayer
-    - 7.3 - Full Decoder
-    - 7.4 - Decoder
+    - 7.2 - Full Decoder
 - 8 - Transformer
     - 8.1 - Transformer
 - 9 - Initialize the Model
 - 10 - Prepare for Training the Model
 - 11 - Summarization
     - 11.1 - next_word
-- 12 - Train the Model
+- 12 - Training the Model
 - 13 - Summarize some sentences!
